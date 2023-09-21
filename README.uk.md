@@ -13,7 +13,7 @@
 `node index.js -a get --id 05olLMgyVQdWRwgKfg5J6` ||
 `node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6`
 
-Приклад результату: https://monosnap.com/file/xSZT7Gk7oRYQTfIoYUbl8Y5DBpXNGs
+Приклад результату: https://monosnap.com/list/64f996aafa221c645a462cd2
 
 # 3 Додавання контакту
 

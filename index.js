@@ -36,3 +36,4 @@ const invokeAction = async ({ action, id, name, email, phone }) => {
 };
 
 invokeAction(program.opts());
+

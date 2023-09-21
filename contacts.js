@@ -71,7 +71,7 @@ async function addContact(name, email, phone) {
 }
 
 /**
- * 
+ * Загальна конструкція try...catch
  * @param {Function} asyncFn -асинхронна функція
  * @returns {Promise} - повертає результат асинхронної функції або помилку
  */
